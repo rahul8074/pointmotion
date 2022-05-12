@@ -1,0 +1,30 @@
+[
+    {
+        "username": "rahulsingh",
+        "password": "$2b$10$dnNLePkiQ74vTe0Cf2q9F.f3UcUwUqvkmGDH9QDZ.jYK3zRURBMDa",
+        "fName": "rahul",
+        "lName": "rajput",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsc2luZ2giLCJwYXNzd29yZCI6InBhc3N3b3JkIiwiaWF0IjoxNjUyMzQ4MzE4LCJleHAiOjE2NTQ5NDAzMTh9.Pz26n-D5x2gyVuIWeA6FxA3QR9nZnjvk3rByGZugFXY"
+    },
+    {
+        "username": "trishalvarma",
+        "password": "$2b$10$mey8tubC2ecGdtvzMf8sdumiCrvBs12fkV3mPkpzn2efB.adVJaJO",
+        "fName": "trisha",
+        "lName": "varma",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRyaXNoYWx2YXJtYSIsInBhc3N3b3JkIjoidHJpc2hhbDEyMyIsImlhdCI6MTY1MjM0OTA0MSwiZXhwIjoxNjU0OTQxMDQxfQ.II8xCImC4tKybWtGoyPafEuRilkKcXbKygCO69kQl-E"
+    },
+    {
+        "username": "rohittrishalvarma",
+        "password": "$2b$10$D42WBlyrWK0OqOIYauzsbeND1sQW9dFzTPDSCg/7Szmb3bL82hfqy",
+        "fName": "trisha",
+        "lName": "varma",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJvaGl0dHJpc2hhbHZhcm1hIiwicGFzc3dvcmQiOiJ0cmlzaGFsMTIzIiwiaWF0IjoxNjUyMzUwMDQ4LCJleHAiOjE2NTQ5NDIwNDh9.EXP2VJTRtyGsMJYpDjDrt5_hWb4FvyvDbvhRHovCb68"
+    },
+    {
+        "username": "aaaas",
+        "fname": "rohit",
+        "password": "$2b$10$IFsQF8oNOXdEjSjgCtg5Fui2sxBKUB82ckApRRBwPSdGy8kD/YRCy",
+        "lname": "gour",
+        "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFhYWFzIiwicGFzc3dvcmQiOiJoZWxsb0AxQSIsImlhdCI6MTY1MjM4NTI3NCwiZXhwIjoxNjU0OTc3Mjc0fQ.TJTU0ORndb6lURyVdL66YNlDayoaGhJsX6G4dwY43uA"
+    }
+]
